@@ -2,8 +2,8 @@
 
 •	Developed and maintained a personal finance dashboard using Excel.
 
-•	Implemented data validation techniques for accuracy and consistency in financial data
-.
+•	Implemented data validation techniques for accuracy and consistency in financial data.
+
 •	Applied custom data formatting for clear visualization and presentation of financial information.
 
 •	Created tables in Excel for organized storage and efficient data management.
